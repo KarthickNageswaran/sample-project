@@ -1,5 +1,5 @@
 class sample {
 	public static void main(String[] args) {
-		System.out.println("This is java program  updated");
+		System.out.println("This is java program updated today");
 	}
 }
