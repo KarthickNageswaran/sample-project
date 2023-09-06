@@ -4,5 +4,7 @@ class sample {
 		System.out.println("second line printing");
 		System.out.println("Third line added");
 		System.out.println("fourth line printing");
+		System.out.println("fifth line printing");
+		System.out.println("sixth line printing");
 	}
 }
